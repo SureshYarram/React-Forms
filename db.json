@@ -1,0 +1,75 @@
+{
+  "Employes": [
+    {
+      "name": "suresh yarram",
+      "age": "25",
+      "address": "Warangal,Telangana",
+      "department": "civils",
+      "salary": "25000",
+      "martialstatus": "unmarried",
+      "id": 1
+    },
+    {
+      "name": "keerthi",
+      "age": "26",
+      "address": "Warangal,Telangana",
+      "department": "Electronics",
+      "salary": "25000",
+      "martialstatus": "married",
+      "id": 2
+    },
+    {
+      "name": "rithik22",
+      "age": "26",
+      "address": "Warangal,Telangana",
+      "department": "civils",
+      "salary": "3333",
+      "martialstatus": "unmarried",
+      "id": 3
+    },
+    {
+      "name": "rithik223",
+      "age": "26",
+      "address": "Warangal,Telangana",
+      "department": "civils",
+      "salary": "3333",
+      "martialstatus": "unmarried",
+      "id": 4
+    },
+    {
+      "name": "suresh yarram",
+      "address": "Warangal,Telangana",
+      "age": "22",
+      "department": "Electronics",
+      "salary": "25000",
+      "martialstatus": "unmarried",
+      "id": 6
+    },
+    {
+      "name": "suresh yarram",
+      "age": "22",
+      "address": "Warangal,Telangana",
+      "department": "Electronics",
+      "salary": "25000",
+      "martialstatus": "unmarried"
+    },
+    {
+      "name": "suresh yarram",
+      "age": "24",
+      "address": "Warangal,Telangana",
+      "department": "Electronics",
+      "salary": "2222222222222",
+      "martialstatus": "married",
+      "id": 7
+    },
+    {
+      "name": "suresh chowdary",
+      "age": "25",
+      "address": "Warangal,Telangana",
+      "department": "civils",
+      "salary": "10000000",
+      "martialstatus": "unmarried",
+      "id": 8
+    }
+  ]
+}
